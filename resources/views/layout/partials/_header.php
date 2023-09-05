@@ -18,7 +18,7 @@
 	<!--end::Mobile logo-->
 <!--begin::Header wrapper-->
 <div class="d-flex align-items-stretch justify-content-between flex-lg-grow-1" id="kt_app_header_wrapper">
-<!--layout-partial:layout/partials/header/_menu/_menu.html-->
+<!-- layout-partial:layout/partials/header/_menu/_menu.html -->
 <!--layout-partial:layout/partials/header/_navbar.html-->
 </div>
 <!--end::Header wrapper-->            </div>
