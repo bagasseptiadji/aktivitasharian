@@ -1,4 +1,10 @@
-"use strict";
+/******/ (() => { // webpackBootstrap
+/******/ 	"use strict";
+var __webpack_exports__ = {};
+/*!************************************************************!*\
+  !*** ../demo1/src/js/custom/documentation/forms/tagify.js ***!
+  \************************************************************/
+
 
 // Class definition
 var KTFormsTagifyDemos = function () {
@@ -273,3 +279,7 @@ var KTFormsTagifyDemos = function () {
 KTUtil.onDOMContentLoaded(function () {
     KTFormsTagifyDemos.init();
 });
+
+/******/ })()
+;
+//# sourceMappingURL=tagify.js.map

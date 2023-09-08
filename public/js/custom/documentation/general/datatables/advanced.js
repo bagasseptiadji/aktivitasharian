@@ -1,4 +1,10 @@
-"use strict";
+/******/ (() => { // webpackBootstrap
+/******/ 	"use strict";
+var __webpack_exports__ = {};
+/*!***************************************************************************!*\
+  !*** ../demo1/src/js/custom/documentation/general/datatables/advanced.js ***!
+  \***************************************************************************/
+
 
 // Class definition
 var KTDatatablesAdvanced = function () {
@@ -158,3 +164,6 @@ var KTDatatablesAdvanced = function () {
 KTUtil.onDOMContentLoaded(function() {
     KTDatatablesAdvanced.init();
 });
+/******/ })()
+;
+//# sourceMappingURL=advanced.js.map

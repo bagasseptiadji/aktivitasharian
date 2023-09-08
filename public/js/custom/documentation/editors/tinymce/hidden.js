@@ -1,4 +1,10 @@
-"use strict";
+/******/ (() => { // webpackBootstrap
+/******/ 	"use strict";
+var __webpack_exports__ = {};
+/*!**********************************************************************!*\
+  !*** ../demo1/src/js/custom/documentation/editors/tinymce/hidden.js ***!
+  \**********************************************************************/
+
 
 // Class definition
 var KTFormsTinyMCEHidden = function() {
@@ -26,3 +32,7 @@ var KTFormsTinyMCEHidden = function() {
 KTUtil.onDOMContentLoaded(function() {
     KTFormsTinyMCEHidden.init();
 });
+
+/******/ })()
+;
+//# sourceMappingURL=hidden.js.map

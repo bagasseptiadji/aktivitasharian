@@ -1,4 +1,10 @@
-"use strict";
+/******/ (() => { // webpackBootstrap
+/******/ 	"use strict";
+var __webpack_exports__ = {};
+/*!***************************************************************!*\
+  !*** ../demo1/src/js/custom/documentation/forms/clipboard.js ***!
+  \***************************************************************/
+
 
 // Class definition
 var KTFormsClipboard = function () {
@@ -170,3 +176,7 @@ var KTFormsClipboard = function () {
 KTUtil.onDOMContentLoaded(function () {
     KTFormsClipboard.init();
 });
+
+/******/ })()
+;
+//# sourceMappingURL=clipboard.js.map

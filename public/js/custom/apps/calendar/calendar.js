@@ -1,4 +1,10 @@
-"use strict";
+/******/ (() => { // webpackBootstrap
+/******/ 	"use strict";
+var __webpack_exports__ = {};
+/*!********************************************************!*\
+  !*** ../demo1/src/js/custom/apps/calendar/calendar.js ***!
+  \********************************************************/
+
 
 // Class definition
 var KTAppCalendar = function () {
@@ -892,3 +898,7 @@ var KTAppCalendar = function () {
 KTUtil.onDOMContentLoaded(function () {
     KTAppCalendar.init();
 });
+
+/******/ })()
+;
+//# sourceMappingURL=calendar.js.map

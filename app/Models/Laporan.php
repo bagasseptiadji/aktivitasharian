@@ -16,5 +16,5 @@ class Laporan extends Model
         'solusi',
         'kegiatan_esok',
         'masukan',
-    ]
+    ];
 }

@@ -1,4 +1,10 @@
-"use strict";
+/******/ (() => { // webpackBootstrap
+/******/ 	"use strict";
+var __webpack_exports__ = {};
+/*!****************************************************************!*\
+  !*** ../demo1/src/js/custom/documentation/forms/dropzonejs.js ***!
+  \****************************************************************/
+
 
 // Class definition
 var KTFormsDropzoneJSDemos = function() {
@@ -154,3 +160,7 @@ var KTFormsDropzoneJSDemos = function() {
 KTUtil.onDOMContentLoaded(function() {
     KTFormsDropzoneJSDemos.init();
 });
+
+/******/ })()
+;
+//# sourceMappingURL=dropzonejs.js.map

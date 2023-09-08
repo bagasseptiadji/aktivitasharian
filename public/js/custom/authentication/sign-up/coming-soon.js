@@ -1,4 +1,10 @@
-"use strict";
+/******/ (() => { // webpackBootstrap
+/******/ 	"use strict";
+var __webpack_exports__ = {};
+/*!********************************************************************!*\
+  !*** ../demo1/src/js/custom/authentication/sign-up/coming-soon.js ***!
+  \********************************************************************/
+
 
 // Class Definition
 var KTSignupComingSoon = function() {
@@ -146,3 +152,7 @@ var KTSignupComingSoon = function() {
 KTUtil.onDOMContentLoaded(function() {
     KTSignupComingSoon.init();
 });
+
+/******/ })()
+;
+//# sourceMappingURL=coming-soon.js.map
